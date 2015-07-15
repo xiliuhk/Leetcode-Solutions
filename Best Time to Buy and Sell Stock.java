@@ -1,17 +1,17 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode(int x) { val = x; }
- * }
- */
 public class Solution {
-    public void deleteNode(ListNode node) {
-        if (node == null || node.next == null){
-            return; 
+    public int maxProfit(int[] prices) {
+        if (prices == null || prices.length <= 1){
+            return 0;
         }
-        node.val = node.next.val; 
-        node.next = node.next.next; 
+        
+        int low = prices[0]; 
+        int profit = 0; 
+        for (int i = 0; i < prices.length; i++){
+            low = Math.min(low, prices[i]);
+            profit = Math.max(profit, prices[i] - low);
+        }
+        
+        return profit; 
+        
     }
 }
