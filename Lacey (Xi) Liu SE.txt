@@ -1,0 +1,63 @@
+Lacey (Xi) Liu
+
+Objectives: To obtain a full-time software engineering position to utilize my expertise in search engines and analytics.
+
+Email: laceyliu@cmu.edu 
+Website: http://www.contrib.andrew.cmu.edu/~xiliu1 
+Mobile: 4128187300
+
+
+EDUCATION
+
+Carnegie Mellon University, United States Aug 2014 - May 2016
+Master at Language Technologies Institute, School of Computer Science (CQPA 3.90)
+
+University of Toronto, Canada Jan 2014 - Jun 2016
+Academic Exchange Student at Department of Computer Science
+
+City University of Hong Kong, Hong Kong Aug 2009 - May 2014
+- Bachelor of Science (Honors) in Computer Science (Major GPA 3.78) - Distinguished Bachelor Student Thesis (Top 10 / 128)
+
+
+SKILLS AND COURSES
+Java (3 yrs), C/C++/C# (2 yrs), Python (2 yrs), JavaScript (2 yrs), SQL(2 yrs), Hadoop, R
+Intelligent Information Systems (A+), Machine Learning (A+, TA), Search Engines (Top 10), Cloud Computing, Distributed Systems, Data Structure and Algorithms, Computer Networks, Databases.
+
+
+WORK EXPERIENCE
+
+Software Engineer Intern - Nokia Networks, Chicago, USA May 2015 - Aug 2015
+- Improved documentation and testing routines by creating doc-to-twiki tool and AES encryption GUI - Expedited emergent system diagnosis by redesigning loggers and creating data visualization tools
+- Led practical machine learning group studies for senior engineers and line managers
+
+System Analyst - Hong Kong Stock Exchanges, Hong Kong Jul 2012 - Jun 2013
+- Fixed Traditional Chinese and Simplified Chinese encoding problems of dissemination platform
+- Enhanced document backup module with 0.3x lines and 2.5x speed and modules for retrieving daily
+stock prices from Shanghai Stock Exchange with 0.4x lines and 1.5x speed
+- Introduced a new version control system (TFS) with targeted trainings for multiple stakeholders
+
+Projects
+
+Fax OCR System, Digitizing Fax Medical Record (Team of 9) Oct 2014 - Ongoing
+- Software to detect form fields, extract and warehouse text from softcopies with precision of 80.9%
+- Java, OpenCV, Tesseract OCR Engine, Machine Learning, NoSQL, Scrum
+
+Distributed Search Engine Implementation (Pair) Feb 2015 – Sep 2015
+- Text search engine of operators and 4-level retrieval model, with 10TB data on a 20-PC cluster
+- Java, Lucene, BM25, Indri, Multiple Representation, Pseudo-relevance Feedback, SVM, LeToR
+
+Predict and Enhance Wine Quality with Machine Learning (Individual) Oct 2014 – Dec 2014
+- Experiment to classify wines with 74.56% precision and find influential ingredients
+- Python, Java, Weka, Logistic Regression, Neural Networks, SVM, Feature Selection, Error Analysis
+
+Bio-Medical Question Answering System (Team of 5) Sep 2014 – Nov 2014
+- Application with NLP techniques and HMM to answer yes/no questions referring to GoPubMed
+- Java, UIMA framework, OpenNLP, HMM, JSON, TF-IDF, Vector Space Model
+
+Interactive E-Learning Platform for Algorithms (Team of 3) Sep 2014 - Dec 2014
+- Platform for learning algorithms with pseudo code compiler, animated data structure visualization
+- Python, Django, jQuery, JSON, JavaScript, BootStrap, Compiler
+
+Scientific Collaborating Network Analysis (Individual) Jun 2014 - Aug 2014
+- Visualized analysis on scientific collaboration with bibliography of 36344 publications - Python, Matlab, Gephi, D3.js, social network analysis, network deconvolution method
+￼￼￼
